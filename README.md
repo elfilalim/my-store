@@ -96,4 +96,4 @@ npm start
 - TypeScript
 - Tailwind CSS
 - Contentful CMS
-- @contentful/rich-text-react-renderer 
+- @contentful/rich-text-react-renderer
